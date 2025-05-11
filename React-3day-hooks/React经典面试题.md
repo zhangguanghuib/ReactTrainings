@@ -13,5 +13,9 @@
 页面性能评分:<br/>
 ![image](https://github.com/user-attachments/assets/3ae4cc65-1d06-43f5-a09c-ac36dfe2beca)<br/>
 ![image](https://github.com/user-attachments/assets/e23a5064-a617-4c9c-8bfa-ddce5715eafc)
+# 面试题3
 #严格模式的作用
 ![image](https://github.com/user-attachments/assets/75b94103-0ffc-49da-84ec-24f962014c72)
+# 面试题4
+https://babeljs.io/
+![image](https://github.com/user-attachments/assets/c6a67228-28c9-467b-975f-4172eb90b319)
