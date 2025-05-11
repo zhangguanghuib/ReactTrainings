@@ -6,3 +6,5 @@
 - nvm list
 - nvm use
 - npm run dev
+# 面试题1
+![image](https://github.com/user-attachments/assets/ec36f501-6aa2-46e4-a843-30c78e1c24b2)
