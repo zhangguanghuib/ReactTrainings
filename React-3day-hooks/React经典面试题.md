@@ -21,3 +21,6 @@ https://babeljs.io/
 ![image](https://github.com/user-attachments/assets/c6a67228-28c9-467b-975f-4172eb90b319)
 # 面试题5:JSX的作用
 ![image](https://github.com/user-attachments/assets/fe85a5c0-fb81-46f5-aa51-052ab57f981f)
+# 面试题6，类组件:
+![image](https://github.com/user-attachments/assets/5d1566d9-3c7b-490c-b815-f4eb95d226cf)
+
